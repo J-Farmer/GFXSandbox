@@ -1,0 +1,24 @@
+Renderer: Radeon (TM) RX 480 Graphics
+Version: 4.5.13474 Compatibility Profile Context 22.19.162.4
+Compiling Vertex Shader: vs.glsl
+Vertex Shader compiled successfully!
+Compiling Fragment Shader: fs.glsl
+Fragment Shader compiled successfully!
+Linking Shaders!
+Shaders linked successfully!
+----------------------------
+Compiling Vertex Shader: light_vs.glsl
+Vertex Shader compiled successfully!
+Compiling Fragment Shader: light_fs.glsl
+Fragment Shader compiled successfully!
+Linking Shaders!
+Shaders linked successfully!
+----------------------------
+Compiling Vertex Shader: frameBuffer_v.glsl
+Vertex Shader compiled successfully!
+Compiling Fragment Shader: frameBuffer_f.glsl
+Fragment Shader compiled successfully!
+Linking Shaders!
+Shaders linked successfully!
+----------------------------
+Framebuffer complete
